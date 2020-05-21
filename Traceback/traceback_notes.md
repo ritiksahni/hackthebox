@@ -87,6 +87,7 @@ Run it and execute following command to get shell of sysadmin
 Using LinPeas tells us that /etc/update-motd.d is writable by sysadmin.
 
 Run `echo "cat /root/root.txt" > /etc/update-motd.d/00-header`
+
 Exit out of the shell and SSH again.
 
 The startup message will have the root flag as 00-header is responsible for running those commands when a new login appears.
