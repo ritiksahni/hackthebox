@@ -46,7 +46,7 @@ OS and Service detection performed. Please report any incorrect results at https
 
 Opening http://10.10.10.181 (port 80) gives us a defaced page.
 
-![Image](/root/Documents/notes/traceback-port80.png)
+![Image](traceback-port80.png)
 
 The HTML comment says `Some of the best web shells that you might need ;)`
 
