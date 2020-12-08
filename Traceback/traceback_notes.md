@@ -12,7 +12,7 @@ Machine IP: `10.10.10.181`
 
 ## Nmap Scan
 
-```
+```java
 # Nmap 7.80 scan initiated Thu May 21 13:05:58 2020 as: nmap -A -p22,80 -oN initial.nmap 10.10.10.181
 Nmap scan report for 10.10.10.181
 Host is up (0.21s latency).
